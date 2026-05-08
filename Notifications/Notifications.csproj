@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-Notifications-13eee2f3-02d7-4138-bdeb-5377f69a4554</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MassTransit" Version="9.1.0" />
+        <PackageReference Include="MassTransit.RabbitMQ" Version="9.1.0" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.12"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Notifications.Core\Notifications.Core.csproj" />
+      <ProjectReference Include="..\Notifications.infrastructure\Notifications.infrastructure.csproj" />
+    </ItemGroup>
+</Project>
