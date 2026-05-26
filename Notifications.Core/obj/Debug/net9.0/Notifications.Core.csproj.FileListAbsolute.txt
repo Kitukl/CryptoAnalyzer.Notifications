@@ -1,0 +1,16 @@
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\bin\Debug\net9.0\Notifications.Core.deps.json
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\bin\Debug\net9.0\Notifications.Core.dll
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\bin\Debug\net9.0\Notifications.Core.pdb
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\bin\Debug\net9.0\Notifications.Domain.dll
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\bin\Debug\net9.0\Notifications.Domain.pdb
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.csproj.AssemblyReference.cache
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.AssemblyInfoInputs.cache
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.AssemblyInfo.cs
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.csproj.CoreCompileInputs.cache
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.sourcelink.json
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifica.9D63223D.Up2Date
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.dll
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\refint\Notifications.Core.dll
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\Notifications.Core.pdb
+C:\Users\kitol\RiderProjects\Notifications\Notifications.Core\obj\Debug\net9.0\ref\Notifications.Core.dll

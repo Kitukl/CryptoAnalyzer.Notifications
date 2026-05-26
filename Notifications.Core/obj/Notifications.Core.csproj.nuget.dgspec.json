@@ -1,34 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Core/Notifications.Core.csproj": {}
+    "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Core\\Notifications.Core.csproj": {}
   },
   "projects": {
-    "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Core/Notifications.Core.csproj": {
+    "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Core\\Notifications.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Core/Notifications.Core.csproj",
+        "projectUniqueName": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Core\\Notifications.Core.csproj",
         "projectName": "Notifications.Core",
-        "projectPath": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Core/Notifications.Core.csproj",
-        "packagesPath": "/Users/kituk/.nuget/packages/",
-        "outputPath": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Core/obj/",
+        "projectPath": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Core\\Notifications.Core.csproj",
+        "packagesPath": "C:\\Users\\kitol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kituk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kitol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Domain/Notifications.Domain.csproj": {
-                "projectPath": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Domain/Notifications.Domain.csproj"
+              "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Domain\\Notifications.Domain.csproj": {
+                "projectPath": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Domain\\Notifications.Domain.csproj"
               }
             }
           }
@@ -51,11 +50,11 @@
           "dependencies": {
             "MassTransit": {
               "target": "Package",
-              "version": "[9.2.0-develop.137, )"
+              "version": "[8.2.5, )"
             },
             "MassTransit.RabbitMQ": {
               "target": "Package",
-              "version": "[9.1.0, )"
+              "version": "[8.2.5, )"
             }
           },
           "imports": [
@@ -74,27 +73,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Domain/Notifications.Domain.csproj": {
+    "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Domain\\Notifications.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Domain/Notifications.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Domain\\Notifications.Domain.csproj",
         "projectName": "Notifications.Domain",
-        "projectPath": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Domain/Notifications.Domain.csproj",
-        "packagesPath": "/Users/kituk/.nuget/packages/",
-        "outputPath": "/Users/kituk/RiderProjects/CryptoAnalyzer.Notifications/Notifications.Domain/obj/",
+        "projectPath": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Domain\\Notifications.Domain.csproj",
+        "packagesPath": "C:\\Users\\kitol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kitol\\RiderProjects\\Notifications\\Notifications.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kituk/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kitol\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

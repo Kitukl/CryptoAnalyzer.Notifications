@@ -15,4 +15,13 @@
       <PackageReference Include="SendGrid" Version="9.29.3" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="obj\Debug\net9.0\Notifica.1A6CD3DD.Up2Date" />
+      <Content Include="obj\Debug\net9.0\Notifications.infrastructure.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net9.0\Notifications.infrastructure.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net9.0\Notifications.infrastructure.dll" />
+      <Content Include="obj\Debug\net9.0\Notifications.infrastructure.pdb" />
+      <Content Include="obj\Debug\net9.0\Notifications.infrastructure.sourcelink.json" />
+    </ItemGroup>
+
 </Project>

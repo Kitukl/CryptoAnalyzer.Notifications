@@ -6,4 +6,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Include="obj\Debug\net9.0\Notifications.Domain.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net9.0\Notifications.Domain.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net9.0\Notifications.Domain.dll" />
+      <Content Include="obj\Debug\net9.0\Notifications.Domain.pdb" />
+      <Content Include="obj\Debug\net9.0\Notifications.Domain.sourcelink.json" />
+    </ItemGroup>
+
 </Project>
